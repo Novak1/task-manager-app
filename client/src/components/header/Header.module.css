@@ -1,0 +1,10 @@
+.header {
+  font-size: 10;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 3px;
+  color: rgb(33, 106, 179);
+  background-color: bisque;
+  width: 100%;
+}
